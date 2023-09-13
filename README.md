@@ -1,2 +1,2 @@
-# IBM WhiteHouse-HBCU-20223
+# IBM WhiteHouse-HBCU-2023
 Repository for the IBM Skills Escape Room 
